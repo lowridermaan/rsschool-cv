@@ -55,4 +55,4 @@ function isValidWalk(walk) {
 
 ```
 
-![my-dog](../../AI/453c4d52-d410-4c38-9bfb-3be046136a5e.webp)
+![my-dog](../rsschool-cv/453c4d52-d410-4c38-9bfb-3be046136a5e.webp)
