@@ -2,6 +2,6 @@
 
 https://lowridermaan.github.io/rsschool-cv/cv
 
-##Fully styled webpage
+## Fully styled webpage
 
 https://lowridermaan.github.io/rsschool-cv/
